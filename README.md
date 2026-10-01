@@ -9,6 +9,7 @@ This repository is used for the public SDK version built for Node JS. Contributi
 ### All Public Repositories of Endpoint Nest
 - [Documentation](https://github.com/Endpoint-Nest/Documentation)
 - [SDK for Node JS](https://github.com/Endpoint-Nest/sdk.nodejs) (**Currently Viewing**)
+- [SDK for Luau, Roblox](https://github.com/Endpoint-Nest/sdk.luau)
 
 ---
 
