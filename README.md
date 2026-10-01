@@ -1,4 +1,4 @@
-# Endpoint Nest: SDK for Node JS
+# SDK for Node JS
 # ⚠️ | Endpoint Nest is under development; content may be inaccurate or missing!
 
 ## Repositories
@@ -7,8 +7,8 @@
 This repository is used for the public SDK version built for Node JS. Contributions are welcome! 🥰
 
 ### All Public Repositories of Endpoint Nest
-- [Endpoint Nest Docs](https://github.com/kablankooo-dloth/endpointnest.docs)
-- [Endpoint Nest SDK: Node JS](https://github.com/kablankooo-dloth/endpointnest.sdk.nodejs) (**Currently Viewing**)
+- [Documentation](https://github.com/Endpoint-Nest/Documentation)
+- [SDK for Node JS](https://github.com/Endpoint-Nest/sdk.nodejs) (**Currently Viewing**)
 
 ---
 
